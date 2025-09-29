@@ -81,3 +81,5 @@ This will generate the `libft.a` file, ready to link in your projects.
 - `make re` recompiles from scratch.
 
 ---
+
+[ir a arriba | go to top](#Libft)
